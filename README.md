@@ -8,7 +8,6 @@ I am a computer engineering student.
 - 🔍 Exploring various technologies.
 - 🔭 I am currently working on expanding my knowledge and learning the technologies of the moment.
 
----
 
 <!--<pre>I am a computer engineering student.
 
@@ -18,6 +17,8 @@ I am a computer engineering student.
   
 </pre>
 -->
+
+## I am 👀
 
 ```python
 class DubanQuiroga:
