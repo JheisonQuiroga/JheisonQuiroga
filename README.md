@@ -1,4 +1,5 @@
 ## Hi there 👋
+---
 
 <!--
 **JheisonQuiroga/JheisonQuiroga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JheisonQuiroga&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JheisonQuiroga&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JheisonQuiroga&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight"></p>
